@@ -1,0 +1,4 @@
+function alpha_loc = getglobalsize
+    global alphg
+    alpha_loc = alpha_g;
+end
